@@ -1,0 +1,14 @@
+WebJetAPI/bin/
+WebJetAPI/obj/
+WebjetAPITest/obj/Debug/
+WebjetAPITest/bin/
+WebjetAPITest/obj/
+.vs/WebJetAPI/v16/Server/sqlite3/db.lock
+.vs/WebJetAPI/DesignTimeBuild/.dtbcache
+.vs/WebJetAPI/v16/Server/sqlite3/storage.ide
+.vs/WebJetAPI/v16/Server/sqlite3/storage.ide-shm
+.vs/WebJetAPI/v16/Server/sqlite3/storage.ide-wal
+WebAPITest/obj/
+WebAPITest/bin/
+TestResults/
+.vs/WebJetAPI/v16/TestStore/
